@@ -1,0 +1,24 @@
+{
+  "name": "modext",
+  "version": "0.0.1-alpha.0",
+  "description": "Updates module extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "import",
+    "import()",
+    "export",
+    "filename",
+    "extensions",
+    "esm",
+    "cjs",
+    ".d.ts"
+  ],
+  "author": "Morgan Ney <morganney@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
