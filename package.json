@@ -20,5 +20,8 @@
   "license": "MIT",
   "files": [
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
 }
